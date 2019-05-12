@@ -32,7 +32,8 @@ module.exports = {
             {
                 title: 'us taxes',
                 children: [
-                    '/us_taxation/'
+                    '/us_taxation/',
+                    '/us_taxation/individual_taxation.md'
                 ]
             }
         ]
