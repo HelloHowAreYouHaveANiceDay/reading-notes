@@ -1,6 +1,8 @@
 # Project Management
 
-Project management is an umbrella term for a series of frameworks and methodologies to align goals between people and optimize the resources in or between organiations. While there are numerous approaches that were each designed for specific types of production, ultimately the success of any project management system is dependent on the success of the organization that is leveraging it.
+Project management is an umbrella term for a series of frameworks and methodologies to align goals between people and optimize the resources in or between organizations. While there are numerous approaches that were each designed for specific types of production, ultimately the success of any project management system is dependent on the success of the organization that is leveraging it.
+
+Program management differs from operations management in that tasks involved in operations are usually repetitive and permanent. 
 
 ## The Five Phases
 
@@ -16,7 +18,7 @@ Broad look at project goals and needs. The project at this stage usually include
 - Responsibility Assignment
 - Rough Project Schedule
 - Cost Benefit Analysis
-- Budget
+- Budge
 - Stakeholder Analysis
 - Project Charter
 
@@ -54,3 +56,5 @@ Controlling looks at the progress of the project according to predetermined meas
 - Change Management
 
 5. Closing
+
+Closing formally ends a project, whether successful or not. Closing includes administrative activities such as archiving of the files and documenting lessons learned.
