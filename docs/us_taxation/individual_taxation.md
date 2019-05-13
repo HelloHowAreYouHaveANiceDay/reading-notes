@@ -382,3 +382,7 @@ x  15.3% self-employment tax rate
  $  4239 self-employment tax obligation
 
 ```
+
+one half of the self employment tax liability for the year is allowed as a deduction on the tax return. The deduction is taken from gross income on 1040.
+
+if net earnings from self-employment are less than $400, there is no self employment tax.
