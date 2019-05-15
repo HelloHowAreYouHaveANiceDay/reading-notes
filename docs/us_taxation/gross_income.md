@@ -152,3 +152,140 @@ gross income is not limited to these items, but these are the most typical.
 4. commissions
 5. director's fees
 6. other amounts received for personal services.
+
+compensation for services is **taxed when received** and not when earned unless the individual reports income under the **accrual** method
+
+the individual includes as income the fair market value of property received
+
+if the taxpayer receives corporate stock as compensation, the fair market value of the stock, at the time of transfer, **must** be included in gross income.
+
+Year-end bonuses are included in the tax return for the year they are received. (a 2018 bonus paid in 2019 will be included in the 2019 tax year, unless an option to receive the payment in 2018 was available) Voluntary payments such as severance and bonuses are also included.
+
+Meals and living quarters received by an employee is also gross income unless they are for the convenience of the employer. They must be furnished on the employer's premises. With lodging, they must also be a condition of employment.
+
+The fair market value of bartered property or services must also be included in gross income.
+
+Small items given by the employer to employee is not taxable despite a deduction allowed to the employer. Cash gifts are considered taxable and should be included in gross income.
+
+### compensation vs gifts
+
+Section 102(a) the value of property acquired by gift is not included in gross income
+
+Section 102(b) the income on such property after the gift event is included in gross income.
+
+a transfer of value cannot be both a gift and compensation
+
+if the transferor took a tax deduction for the payment, then the payment is meant to be compensation.
+
+The fact that an employer is not legally obliged to may payment is not the basis for proof of gift.
+
+### jury duty pay
+
+jury duty pay must be included in gross income. Remitted pay provided to the employer is however tax deductible.
+
+### prizes and awards
+
+gross income includes prizes and awards from:
+
+- radio and television shows
+- lotteries
+- door prizes
+- awards from contests
+
+if the prize is not in money but in property, the fair market value of the property is considered gross income.
+
+Prizes in the field of science, charity, and the arts are included in gross income **unless**
+
+1. the recipient assigns the prize or award to a governmental agency or tax-exempt charitable organization
+    a. and have made the assignment before the award is used.
+2. the assigned party
+    a. must not have had a part in the prize
+    b. must not be required to render services as a condition of assignment
+
+No winnings need to be included in gross income if it is property assigned elsewhere, however, there is no charitable contribution deduction on the assignment.
+
+Employee awards can be excluded from gross income and are deductible by the employer if:
+
+1. they are awarded as a part of a meaningful presentation
+2. awards do not exceed $400 for non qualified plan awards
+3. awards do not exceed $1600 for all qualified plan awards
+
+a qualified plan award is one that is a part of an established plan or program and does not discriminate to favor higher earning employees.
+
+### scholarships and fellowships
+
+Amount received by a **degree candidate** can exclude:
+
+- tuition
+- course related expenses
+  - books
+  - supplies
+  - equipment
+
+no exclusions for:
+
+- room
+- board
+- incidental expenses
+
+non-degree candidates must include in income scholarships and fellowships.
+
+### Gross income derived from business
+
+total sales revenues less cost of goods sold, plus income from investments and incidental income.
+
+### Partnerships and S corporations
+
+Not taxed directly, but taxable income is taxed to the individual partners or shareholders.
+
+Each shareholder has tax liability on the income whether or not the income is distributed.
+
+### Interest
+
+Interest is included in gross income
+
+Interest income from obligation of stats, territories, or United States is generally exempt.
+
+#### Below Market Interest Loans
+
+a demand loan with an interest rate below the applicable federal short-term rate.
+
+a demand loan is any loan payable in full on demand of the lender.
+
+a term loan is a below-market loan if the amount of the loaned exceeds the present value of all payments due under the loan.
+
+Imputed interest is computed by the statutory federal rate of interest. The IRS establishes a blended annual rate to calculate below-market loans.
+
+rules for below market loans do not apply to:
+
+1. gift loans if:
+    a. the aggregate outstanding amount is below $10,000
+    b. loan is not used to purchase or carry income producing assets
+2. Compensation related or corporation-shareholder loans if:
+    a. aggregate outstanding amount is below $10,000
+    b. avoidance of tax is not the principal purpose of the loan.
+
+#### bond transactions
+
+### Rent and royalty income
+
+Rental income is included in gross income and expenses attributed to the rental property are tax deductible.
+
+If the tenant pays off obligations of the owner instead of rent, then it is included in gross income unless the obligation itself is deductible.
+
+Tenant if rent is payed in advance is not allowed a tax deduction until the rent is due. However, on the owner side, rent received is taxable upon receipt.
+
+#### Lessee improvements
+
+Improvements made by the lessee is not income to the lessor at the time of improvements or upon the termination of the lease. Income is only recognized at the time of sale.
+
+If the repairs are the responsibility of the lessor or the improvement is made instead of rent, the market value of the improvements is considered income to the lessor.
+
+#### lease cancellation and bonuses
+
+Code Sec. 1241
+
+If the payment received by tenant results in capital gain income because lease is considered capital asset.
+
+### Dividend Income
+
