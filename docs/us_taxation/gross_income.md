@@ -289,3 +289,79 @@ If the payment received by tenant results in capital gain income because lease i
 
 ### Dividend Income
 
+any distribution of property made by a corporation to its shareholders out of earnings and profits.
+
+Property is defined as:
+
+- money
+- securities
+- any other property
+
+it does not include:
+
+- stock
+- rights to acquire stock
+
+#### Cash Dividend
+
+Four important dates for dividends:
+
+1. Declaration
+    b. stock value should reflect the dividend on the first of the month of this date
+2. Record
+    a. anyone who owns shares before this date is entitled to a dividend
+3. Payment
+4. Receipt
+    a. date that determines tax liability
+
+if a person A sells stock after the record date, person A is still entitled to the dividend that is recorded when the stock is in person A's possession.
+
+if person B dies before the payment date, the dividend income is included not on person B's income tax return but person B's estate tax return.
+
+#### Mutual Funds
+
+three types of distribution
+
+- ordinary dividends
+  - reported as dividend income to recipient
+- return of capital
+- capital gains dividends
+  - appraised as long term capital gains even though company retains returns
+
+notice is given within 45 days after close of the tax year regarding distribution into the three classes.
+
+#### Life Insurance and Annuity Contracts
+
+Dividends on life insurance and annuity contracts are excluded from gross income. They are deducted against the cost of the policy.
+
+If the policy is fully paid and dividend exceeds net premiums paid, then excess is taxable.
+
+once payment of the proceeds under the contract has commenced, then dividends are fully taxable.
+
+#### stock dividends
+
+distribution by a corporation of its own stock, including treasury stock.
+
+They are not included in gross income except:
+
+1. if the distribution is an option to receive stock instead of money
+2. if distribution is uneven and change the proportion of interest in the company.
+3. Distribution of common **and** preferred stock.
+4. Distributions on preferred stock.
+    a. unless the increase in conversion ration of convertible preferred stock is accounting for a stock dividend or stock split on the convertible preferred stock in which case it is tax free. Code Sec. 305(b)(4)
+5. Distributions of convertible preferred stock.
+
+## Stock Rights
+
+distribution by a corporation to its shareholders of rights to purchase corporate stock.
+
+Usually the shareholder has the right to buy the stock at less than fair market value.
+
+Stockholder with the rights to a stock has three courses of action; exercise, sell, hold.
+
+if the market value of the stock rights is less than 15%  of the market value of the stock, then the basis of the rights is zero. Code Sec. 307(b)(1)
+
+### Divorce and Separation
+
+Pre-1985 agreements have a different ruleset
+

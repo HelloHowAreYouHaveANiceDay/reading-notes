@@ -36,6 +36,7 @@ a child is not allowed the personal exemption if it is claimed on the parent's r
 ## Tax Rates
 
 ## Tax Credits or Repayments
+
 Deductions reduces the income to which the rate applies, credits directly reduce tax liability.
 
 ## Classification of  Taxpayers
@@ -119,6 +120,7 @@ dependent cannot be filed as a dependent on more than one return.
 ### multiple support agreements
 
 in cases where no single person contributed for more than 50% of the support
+
 - no single person contributed to more than 50%
 - each member of the group did not contribute more than 50%
 - member claiming the dependent contributed more than 10% of support
@@ -135,6 +137,7 @@ deductions above a certain income threshold is reduced by 2% for each 2500 or fr
 ## filing status and requirements
 
 there are file filing statuses
+
 - married individuals filing jointly
 - married individuals filing separate returns
 - single individuals
@@ -185,7 +188,9 @@ unmarried person who does not qualify as head of household. Where incomes are ap
 
 ### head of households
 
-unmarried individuals who maintain a household for dependents can use head of household rates. 
+unmarried individuals who maintain a household for dependents can use head of household rates.
+
+rates are usually lower than for single taxpayers or surviving spouses but higher than joint filings.
 
 unrelated persons, even if claimed as dependents, do not count towards head of household status. Only relatives can serve this purpose.
 
@@ -216,7 +221,7 @@ they do not include:
 - services rendered in household by the taxpayer
   - such as cleaning, cooking, or doing laundry
 
-### Surviving Spouses
+### Surviving Spouses (qualified widow)
 
 A surviving spouse is a taxpayer whose spouse died in either of the two years preceding the tax year and has not remarried. They may file if they maintain a household for dependents.
 
