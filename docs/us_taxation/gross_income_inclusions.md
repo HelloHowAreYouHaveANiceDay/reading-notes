@@ -1,22 +1,18 @@
-# gross income
+# gross income inclusions
 
 income has slightly different concepts depending on which perspective it is viewed from.
 
-## different concepts of income
-
-### economic income
-
-"maximum amount a person can consume during a week and still expect to be as well-off at the end of the week as he was at the beginning." J.R. Hicks, _value and capital_ (Oxford: Claredon Press, 1946)
-
-assumes that there were no capital contributions or withdrawals during the period measured.
-
-### tax concept of income
+## General Recognition
 
 gross income includes "all income from whatever source derived" unless specifically exempt by law.
 
-### accounting income
+### cash basis
 
-income is the excess of revenues over the costs incurred in producing those revenues. Emphasis is on completed transactions. Unlike the economic view, the accounting view does not recognize holding gains. Deals with exclusively objective measurable forms.
+Taxpayer reports income in the year the money, property, or services incur a income-producing event where the taxpayer has control over the assets or cash without restriction.
+
+### accrual basis
+
+Taxpayer report income in the tax year earned, regardless of when the cash is received.
 
 ::: tip
 gains must be **realized** before they are includible in income.
@@ -73,6 +69,7 @@ Assignment between married couples filing separate returns may vary between stat
 ## community property income
 
 there are eight community property states
+
 - arizona
 - california
 - idaho
@@ -87,12 +84,15 @@ All property acquired by a husband and wife after marriage is considered communi
 Property acquired before marriage or inherited by one spouse during marriage is considered separate property. Whether income from these properties are communal income depends on state.
 
 if two individuals
+
 - are married to each other during some part of the calendar year
 - live apart for the entire tax year
 - do not file a joint return
 - one or both have earned income
     - none of which is transferred between them
+
 then:
+
 1. earned income is treated as income of the spouse who provided the service
 2. trade or business income is treated as the husband's income unless the wife exercises substantially all of the management and control of the business.
 3. community income derived from separate property of one spouse is treated as income of that spouse and that spouse only.
@@ -142,7 +142,7 @@ Section 61(a)
 gross income is not limited to these items, but these are the most typical.
 :::
 
-### compensation for services
+### compensation for services (employee compensation)
 
 **all compensation received by the individual is included in gross income.**
 
@@ -166,6 +166,16 @@ Meals and living quarters received by an employee is also gross income unless th
 The fair market value of bartered property or services must also be included in gross income.
 
 Small items given by the employer to employee is not taxable despite a deduction allowed to the employer. Cash gifts are considered taxable and should be included in gross income.
+
+#### tips
+
+tips need to be filed with reports to the taxpayer's employer by the 10th of every month that the tip is received. Employers are allowed to require more frequent reporting.
+
+**tips of less than $20** cumulatively for a single month for a single employer do not need to be reported monthly but **must** be added to the total wages. This income will not be taxed on social security or medicare.
+
+**tips of more than $20** cumulatively for a single month for a single employer will be taxed for medicare and social security, and must declare unreported tips on Form 1040 and Form 4137.
+
+The government assumes a minimum of 8% tip on gross sales. When less than the threshold is reported, employers must pay the difference. This is recorded as additional income but are not a part of wages and thus excluded from withholding for social security or medicare. **Only applies to businesses where tipping is customary**
 
 ### compensation vs gifts
 
@@ -230,11 +240,13 @@ no exclusions for:
 
 non-degree candidates must include in income scholarships and fellowships.
 
-### Gross income derived from business
+### Gross income derived from business (Business Activities)
+
+Schedule C unless it's farming then schedule F
 
 total sales revenues less cost of goods sold, plus income from investments and incidental income.
 
-### Partnerships and S corporations
+#### Partnerships and S corporations
 
 Not taxed directly, but taxable income is taxed to the individual partners or shareholders.
 
@@ -363,5 +375,25 @@ if the market value of the stock rights is less than 15%  of the market value of
 
 ### Divorce and Separation
 
-Pre-1985 agreements have a different ruleset
+#### Property transfer
 
+settlement of splitting assets without a income generating event is not taxed. The asset basis is the same as before the transfer and is used to calculate gain in the event of a future sale.
+
+#### Alimony
+
+spousal support is taxable by the recipient and deductible by the payer.
+
+Alimony Qualifications:
+
+1. payment made in cash
+2. payment is not for child support
+3. payment is legally required
+4. governing decree must label payments as alimony
+5. payer is not required to make payments after recipient's death
+6. parties may not live in the same household at time of payment
+
+#### Child Support
+
+Child support payments are not considered gross income. Applies to payments clearly labeled as child support **as well as those that can implied as child support**
+
+### Distributions from Traditional IRAs

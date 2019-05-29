@@ -34,7 +34,8 @@ module.exports = {
                 children: [
                     '/us_taxation/',
                     '/us_taxation/individual_taxation.md',
-                    '/us_taxation/gross_income.md',
+                    '/us_taxation/gross_income_inclusions.md',
+                    '/us_taxation/gross_income_exclusions.md',
                 ]
             }
         ]
