@@ -30,12 +30,25 @@ module.exports = {
                 ]
             },
             {
+                title: 'business',
+                children: [
+                    '/business/founders_agreement.md'
+                ]
+            },
+            {
                 title: 'us taxes',
                 children: [
                     '/us_taxation/',
                     '/us_taxation/individual_taxation.md',
                     '/us_taxation/gross_income_inclusions.md',
                     '/us_taxation/gross_income_exclusions.md',
+                ]
+            },
+            {
+                title: 'appendix',
+                children: [
+                    '/appendix/',
+                    '/appendix/sources.md',
                 ]
             }
         ]
