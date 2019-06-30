@@ -8,9 +8,9 @@ Taxable Income x Tax Rate = Tax Liability
 
 Tax Liability - Tax Credits and Prepayments = Net Tax Due or Refund
 
-## Gross Income
+## Exclusions from Gross Income
 
-## Deductions For Adjusted Gross Income
+### Deductions For Adjusted Gross Income
 
 Deductions Include:
 
@@ -19,36 +19,36 @@ Deductions Include:
 - Moving Expenses
 - Losses from sale or exchange of property
 
-## (AGI) Adjusted Gross Income
+### (AGI) Adjusted Gross Income
 
 There are deductions that contribute towards and deductions that take from the AGI. This subtotal is the basis for other items which are based on this amount such as credit for dependent care and itemized deductions.
 
-## Itemizing vs Standard Deduction
+### Itemizing vs Standard Deduction
 
-## Limitations on Itemized Deductions
+### Limitations on Itemized Deductions
 
 Married taxpayers even filing jointly must choose to both itemize or take the standard deduction
 
-## Personal Exemptions
+### Personal Exemptions
 
 a child is not allowed the personal exemption if it is claimed on the parent's return
 
-## Tax Rates
+### Tax Rates
 
-## Tax Credits or Repayments
+### Tax Credits or Repayments
 
 Deductions reduces the income to which the rate applies, credits directly reduce tax liability.
 
-## Classification of  Taxpayers
+### Classification of  Taxpayers
 
 Individual 1040
 Corporation 1120
 Fiduciary 1041
 partnership 1065
 
-# Personal Exemptions
+## Individual Exemptions
 
-## dependents
+### dependents
 
 to qualify as as dependent, all the following tests must pass:
 
@@ -59,7 +59,7 @@ to qualify as as dependent, all the following tests must pass:
 5. No joint return filed
 6. Social Security Number
 
-### Support Test
+#### Support Test
 
 over one half of the support of a dependent must be provided by the tapayer.
 support includes food, shelter, clothing, medical and dental, education, etc.
@@ -74,7 +74,7 @@ amount paid to others to care for children while working counts as part of suppo
 
 amounts received as scholarships at an educational institution are not considered in determining whether the taxpayer furnishes more than one-half the support of the student.
 
-### Relationship or Member of the household Test
+#### Relationship or Member of the household Test
 
 the dependent must be a relative of the taxpayer or a member of the taxpayers household.
 
@@ -88,10 +88,10 @@ the dependent must be a relative of the taxpayer or a member of the taxpayers ho
 - step parent
 - child of in-laws
 - in-laws
-- sibilings in law
+- siblings in law
 - non related person that has been a member of the taxpayer's household for **at least one year**
 
-### gross income test
+#### gross income test
 
 taxpayer is allowed exemption for each dependent whose gross income for the year is less than the personal exemption amount.
 **OR**
@@ -105,19 +105,19 @@ is a child of the tax payer
 school attendance exclusively at night does not constitute full time attendance
 :::
 
-### resident test
+#### resident test
 
-dependent does not include anyone who is not a citizen or national. Can be a resident of United states, American samoa, canada, or mexico
+dependent does not include anyone who is not a citizen or national. Can be a resident of United states, American Samoa, Canada, or Mexico
 
-### no joint return test
+#### no joint return test
 
 dependent cannot be filed as a dependent on more than one return.
 
-### social security number
+#### social security number
 
  social security number is required for all dependents claimed
 
-### multiple support agreements
+#### multiple support agreements
 
 in cases where no single person contributed for more than 50% of the support
 
@@ -126,15 +126,15 @@ in cases where no single person contributed for more than 50% of the support
 - member claiming the dependent contributed more than 10% of support
 - all other persons in the group with more than 10% writes a declaration that they will not claim dependent
 
-### divorced or separated parents
+#### divorced or separated parents
 
 parent with whom the child is given the greater portion of custody is entitled to claim the child as a dependent.
 
-### high income phaseout of exemptions
+#### high income phaseout of exemptions
 
 deductions above a certain income threshold is reduced by 2% for each 2500 or fraction of the **adjusted gross income** that's above. Married person filing separately 2% for each 1250. Deductions are fully eliminated when agi exceeds threshold by more than 122,500
 
-## filing status and requirements
+### filing status and requirements
 
 there are file filing statuses
 
@@ -152,11 +152,12 @@ there are file filing statuses
 - taxpayer's residence is child's primary residence for more than 50% of the year.
 an abandoned spouse can claim head of household status.
 
-### married individuals filing jointly
+#### married individuals filing jointly
 
 a joint return is not allowed if either partner is a non-resident alien during the tax year or if they are on different tax years.
 
 joint returns combine
+
 - income
 - deductions
 - exemptions
@@ -165,7 +166,7 @@ both spouses are jointly liable for any tax liabilities
 
 in the event a spouse or both dies, a joint income can still be filed provided the surviving spouse does not remarry within a year.
 
-### married individuals filing separately
+#### married individuals filing separately
 
 separate returns will result in approximately the same tax liability as a joint return if both spouses have approximately equal amounts of income.
 
@@ -182,11 +183,11 @@ in **community property** states, a married couple's income is treated as earned
 
 Texas, Idaho, and Louisiana income from separate property is treated as community property.
 
-### single individuals
+#### single individuals
 
 unmarried person who does not qualify as head of household. Where incomes are approximately equal, total tax may be smaller if unmarried.
 
-### head of households
+#### head of households
 
 unmarried individuals who maintain a household for dependents can use head of household rates.
 
@@ -221,7 +222,7 @@ they do not include:
 - services rendered in household by the taxpayer
   - such as cleaning, cooking, or doing laundry
 
-### Surviving Spouses (qualified widow)
+#### Surviving Spouses (qualified widow)
 
 A surviving spouse is a taxpayer whose spouse died in either of the two years preceding the tax year and has not remarried. They may file if they maintain a household for dependents.
 
@@ -231,7 +232,7 @@ The surviving spouse must also qualify as head of household.
 
 Exemption for the deceased spouse is available in the year of death but not two years following death.
 
-## Dependents
+### Dependents
 
 Standard deduction for dependents is the dependent's income plus $250 up to the maximum allowable standard deduction or $750 total. Individual over 18 or full time student over 23 will not qualify as a dependent if income exceeds $3000.
 
@@ -247,7 +248,7 @@ income of custodial parent is used for tax computation.
 
 if parents are unmarried, then the greater taxable income is used when taxes are filed separately.
 
-### net unearned income
+#### net unearned income
 
 Net unearned income is "unearned" such as:
 
@@ -300,7 +301,7 @@ $200 net unearned income is taxed at parent's rate.
 
 ```
 
-## Filing requirements
+### Filing requirements
 
 obligation to file depends on
 - amount of gross income
@@ -308,7 +309,7 @@ obligation to file depends on
 - marital status during the year
 - age
 
-### tax tables
+#### tax tables
 
 tax tables only apply to taxable income of less than **$100,000**
 
@@ -323,11 +324,11 @@ intervals are $50
 
 Tax in tables is determined by the midpoint taxable income in each interval.
 
-### tax rate schedules
+#### tax rate schedules
 
 those unable to use tax tables can use tax schedules to determine their tax obligation.
 
-### self employment tax
+#### self employment tax
 
 used so self employment also is taxed for social benefits.
 
@@ -340,6 +341,7 @@ used so self employment also is taxed for social benefits.
 ```
 
 not all self-employment income is taxed.
+
 - service pay for newsboys under 17.
 - dividends taxed only for dealers
 - interest only on business loans
