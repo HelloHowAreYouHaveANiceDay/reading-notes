@@ -1,23 +1,23 @@
-# Operations
+# Operation Management
 
 ## Four dimensions
 
 1. Cost
-    a. efficiency
+    1. efficiency
         1. labor
         2. customers/space
 2. Quality
-    a. product quality
+    1. product quality
         1. ambience
         2. courtesy
-    b. process quality
+    1. process quality
         1. freshness
 3. Variety
-    a. customer heterogeneity
+    1. customer heterogeneity
         1. items on the menu
         2. percent of item requested
 4. Time
-    a. responsiveness to demand
+    1. responsiveness to demand
         1. turn around time
 
 Two ways of competitive advantage **cost leadership** or **differentiation**
@@ -32,60 +32,38 @@ This helps companies decide which of the four dimensions they should improve upo
 
 ## Process Analysis
 
-### Core Terms
+### Bottleneck
 
-cumulative inflow = Time x cumulative number of customers
-cumulative outflow = Time x cumulative number of customers leaving
+**Resource**: a worker or station that processes a flow unit
 
-unit/time is the slope
+**Processing Time**: how much time a resource spends
 
-Flow Rate:
-horizontal difference is flow time
-number of flow units going through the process per unit of time
+**Capacity:** 1/processing time. How many units can the worker make per unit of time if there are m workers at the activity.
 
-Inventory:
-number of flow units in the process at a given moment in time
-inflow - outflow
-vertical difference is inventory
+**Bottleneck:** process step with the lowest capacity
 
-inventory is anytime there is a mismatch between supply and demand
+**Process Capacity:** capacity at the bottle neck.
 
-Flow Time:
-time it takes a flow unit to go from the beginning to the end of the process
+**Flow Rate:** Minimum Demand rate or Process Capacity
 
-Unit:
-Atomic unit of analysis
+**Utilization:** Flow Rate / Capacity
 
-### Bottle Neck
+**Flow Time:** The amount of time it takes a flow unit to go through the process
 
-Processing Time: how long is spent on the task
-
-Capacity: 1/processing time. How many units can the worker make per unit of time if there are m workers at the activity. Capacity = m/processing time
-
-Bottleneck: process step with the lowest capacity
-
-Process Capacity: capacity at the bottle neck.
-
-Flow Rate: Minimum Demand rate or Process Capacity
-
-Utilization: Flow Rate / Capacity
-
-Flow Time: The amount of time it takes a flow unit to go through the process
-
-Inventory: number of flow Units in the system.
+**Inventory:** number of Flow Units in the system.
 
 ### Labor cost and Utilization
 
-Cycle time = 1/flow rate
+**Cycle time** = 1/flow rate =
 how much time passes between the flow of two units
 
-Direct Labor Content: sum of processing times
+**Direct Labor Content:** sum of processing times
 
-Direct Idle time = sum of (cycle time - processing time)
+**Direct Idle time** = sum of (cycle time - processing time)
 
-Average Labor utilization = Labor Content/Labor Content + Direct Idle Time
+**Average Labor utilization** = Labor Content/Labor Content + Direct Idle Time
 
-Cost of direct Labor = total wages per unit of time / flow rate per unit of time.
+**Cost of direct Labor** = total wages per unit of time / flow rate per unit of time.
 
 ::: tip Why labor costs matter to the value chain
 Companies that purchase products or services from contractors or suppliers are just shifting the labor cost out of their books and into the books of the supplying company. As you roll up the total cost across the value chain a greater percentage is given to logistics and labor.
@@ -103,9 +81,11 @@ If flow rate is held constant, then reducing inventory would reduce flow time
 
 ### Inventory Turns
 
-Inventory turns is the amount of time a dollar spends inside the operation. There is a cost advantage to turning over inventory faster than competitors.
+Inventory turns is the amount of time a dollar snside the operation. There is a cost advantage to turning over inventory faster than competitors.
 
 Inventory Turns = Cost of goods sold / Inventory
+
+Inventory Turns = Average Supply of Inventory per day * days in a year
 
 Inventory cost, the cost to the company to hold inventory for a year. Most major companies incur a capital cost of 10%
 
@@ -150,4 +130,179 @@ Units can be genericized to "minute of work" units. This allows you to join diff
 ## Productivity
 
 Productivity = Units Output Produced / Input Used
+
+Multifactor Productivity = Output / (Capital + Labor + Materials + Services + Energy)
+
+Productivity is the percentage of input used productively towards the output. It can never exceed 100%. You cannot work more time than in an hr.
+
+### Seven Sources of Waste
+
+Less waste = more productivity
+
+"Moving is not necessarily working"
+
+1. Overproduction
+   1. Mismatch between supply and demand
+2. Transportation
+3. Rework
+   1. do it right the first time
+   2. siphons productivity from other resources
+4. Over-Processing
+   1. Stirring an already mixed cup of coffee
+5. Motion
+   1. economic design of the workspace
+6. Inventory
+   1. a buildup of inventory indicates a mismatch between supply and demand
+   2. inventory always has costs
+7. Waiting
+   1. Idle Time
+
+1-5 is resource centric
+
+**Intellect** is also a form of waste. Wasting individual worker's ability to contribute to process and quality improvements through what they know.
+
+### Financial Value of Productivity
+
+Process management techniques allow us to estimate the financial impact of process improvements.
+
+Modeling the relationship between process and profit gives us a way to understand the downstream effects of small process improvements. A small change in a process can have exponential effects on the overall.
+
+### Key Performance Indicators and KPI Trees
+
+a KPI tree visualizes all variables and what they impact. Allows for sensitivity analysis on which variables most impact profits.
+
+- Profit
+  - Revenue
+    - Flow Rate
+      - Demand
+      - Capacity
+        - bottleneck
+          - processing time
+    - Dollars per customer
+  - Cost
+    - fixed
+    - variable
+      - $ per order
+        - ingredients
+      - flow rate
+
+Break even point is the place where you start making money, every additional unit contributes a bigger proportion to the bottom like.
+
+### Overall Equipment Effectiveness
+
+All the time you have available on a resource reduced by all the things that contributes to waste, leaving the fraction that actually contributes to value add.
+
+Downtime losses: from breakdown and changeovers
+
+Speed losses: idle time and minor stops, reduced speed of work
+
+Quality losses: defects and startup time
+
+Total uptime * Availability Rate = available time
+
+Available time * Performance rate = Net Operating Time
+
+Net Operating Time * Quality Rate = Overall Equipment Effectiveness (OEE)
+
+### Takt time
+
+Idle time occurs in every resource that's not the bottleneck. If you are constrained by demand, even the bottleneck has idle time.
+
+Line balancing are adjustments we can make to spread the work to reduce idle time.
+
+Takt time is the flow rate to perfectly meet demand.
+
+with perfect line balance, takt time helps us determine how many people is needed to do the work.
+
+How to balance the line:
+
+1. determine takt time
+2. assign tasks so that total processing times is less than Takt time
+3. assign all tasks
+4. minimize the number of people needed
+
+### Quartile Analysis
+
+In the real world, reducing variability is a big element in increasing productivity.
+
+In a pool of resources/workers compare the high quarter operator with the low quarter operator. Reveals processes where there is a dramatic variation.
+
+if we can transfer best practices from high performers to low performers we can increase the overall average productivity.
+
+### Productivity Ratios
+
+Productivity = Output / input
+
+it's often hard to measure so often the monetary equivalent is used to create a common baseline.
+
+ex: labor productivity = revenue / labor costs
+
+How to differentiate where productivity is coming from
+
+Revenue / Labor Costs = (Revenue / Output) x (Output / Capacity) x (Capacity / Cost)
+
+Revenue / Labor Costs = Yield x Transformation Efficiency x Unit cost of capacity
+
+the different ratios each captures different things, this allows us to find the driving factors.
+
+## Quality and Defects
+
+Performance quality: extent a product or service meets consumer expectations
+
+Conformance quality: whether the process is carried out the way it should be
+
+built in redundancies guarantee performance in the case of an error in conformance
+
+"the swiss cheese model"
+
+in one slice of cheese, there are holes. When slices are stacked, it becomes less and less probably for you to see through all the stacks.
+
+### quality and flow
+
+### Six Sigma
+
+Lower specification limit (LSL)
+
+Upper specification limit (USL)
+
+Capability score = (USL - LSL) / (6x standard deviation)
+
+### Control charts
+
+Common cause variation (low level)
+low variability but still common
+
+Common cause variation (high level)
+high variability, but still common cause
+
+Assignable cause variation
+identifiable cause of the variation
+
+statistical process control
+
+Capability analysis -> conformance analysis -> Investigate for assignable cause -> eliminate assignable cause -> repeat
+
+### Jidoka
+
+a long information turnaround time keeps us from improving. a large inventory buffer between processes delays the alert for a defective unit.
+
+Where the defect identified effects how much loss is incurred due to the defect.
+
+defects before the bottle neck is driven by input cost, while defects after the bottle neck incur the opportunity cost of a unit of sales.
+
+Jidoka = a malfunction is automatically detected, alerted, and the process is stopped.
+
+Andon Cord = a cord running along the entire line, where any worker that detects a defect can stop the line.
+
+### Problem solving (finding the root cause of defects)
+
+Ishikawa diagram
+fish-bone shaped diagram to find the root cause.
+
+Pareto chart
+maps out the assignable causes of a problem in the categories of the ishikawa diagram.
+
+80/20 logic. 80% of the defects is caused by 20% of the process.
+
+Iteration between the real world and the model(thought) world increases the connection between the two and enhances our ability to improve the process.
 

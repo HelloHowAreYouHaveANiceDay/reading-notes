@@ -32,7 +32,8 @@ module.exports = {
             {
                 title: 'business',
                 children: [
-                    '/business/founders_agreement.md'
+                    '/business/founders_agreement.md',
+                    '/business/operation_management.md',
                 ]
             },
             {
