@@ -12,6 +12,7 @@ FV = PV x (1+periodic rate of return)^total number of periods
 
 future value factor: (1 + periodic rate of return)^ total number of periods
 
+
 ## Present Value (PV)
 
 The process to calculate PV is called discounting
@@ -56,3 +57,12 @@ cashflow occurs at the end of each compounding period
 
 **Annuities Due**
 cashflow occurs at the start of each compounding period
+
+## Loan Payments and Amortization
+
+Interest component = beginning balance x periodic interest rate
+
+Principal component = Payment - Interest
+
+## Future Obligation
+

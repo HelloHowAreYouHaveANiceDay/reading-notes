@@ -54,21 +54,30 @@ This helps companies decide which of the four dimensions they should improve upo
 
 ### Labor cost and Utilization
 
-**Cycle time** = 1/flow rate =
-how much time passes between the flow of two units
+#### Metrics
+
+**Cycle time** = 1/flow rate
+
+how much time passes between the flow of two units. Also the bottleneck process working at full speed.
 
 **Direct Labor Content:** sum of processing times
 
 **Direct Idle time** = sum of (cycle time - processing time)
 
+Slack time relative to bottleneck, since other processes are faster.
+
+#### Measures
+
 **Average Labor utilization** = Labor Content/Labor Content + Direct Idle Time
+
+Captures how much Labor Content is in the total time that is being paid for.
 
 **Cost of direct Labor** = total wages per unit of time / flow rate per unit of time.
 
 ::: tip Why labor costs matter to the value chain
 Companies that purchase products or services from contractors or suppliers are just shifting the labor cost out of their books and into the books of the supplying company. As you roll up the total cost across the value chain a greater percentage is given to logistics and labor.
 
-example: Foxcon's labor force in Apple's value chain.
+example: Foxconn's labor force in Apple's value chain.
 :::
 
 ### Little's Law
@@ -81,7 +90,7 @@ If flow rate is held constant, then reducing inventory would reduce flow time
 
 ### Inventory Turns
 
-Inventory turns is the amount of time a dollar snside the operation. There is a cost advantage to turning over inventory faster than competitors.
+Inventory turns is the amount of time a dollar inside the operation. There is a cost advantage to turning over inventory faster than competitors.
 
 Inventory Turns = Cost of goods sold / Inventory
 
