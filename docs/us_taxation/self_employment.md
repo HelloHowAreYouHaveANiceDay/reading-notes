@@ -14,7 +14,7 @@ Taxpayers deduct expenses when they pay the cash, but only if the **expenses rel
 
 income includes amounts earned or accrued but not received. It acts on the right to receive revenue rather than the actual receipt of cash, and acts on the use of the asset or service rather than the actual cash payment.
 
-prepaid expense are accounted for the same way under both cash and accrual. Dedcut only the amounts allocable to the given tax year with the remainder carrying forward.
+prepaid expense are accounted for the same way under both cash and accrual. Deduct only the amounts allocable to the given tax year with the remainder carrying forward.
 
 prepaid income can be spread across the current and next year if goods and services sold extend beyond the current tax year.
 
