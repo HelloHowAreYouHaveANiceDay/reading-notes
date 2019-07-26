@@ -4,6 +4,8 @@ Equilibrium interest rates are the required rate of return for a particular inve
 
 Time Line: diagram of cash flows associated with time value of money problems. Present day is at time zero, with payments as negatives and receipts as positive.
 
+There is a **time component** to money. Cashflow that occurs at different times cannot be simply added together. To understand future cashflows in today's terms, a conversion must occur so evaluate money at the same time slot.
+
 ## Future Value (FV)
 
 The process to calculate FV is called compounding
@@ -11,7 +13,6 @@ The process to calculate FV is called compounding
 FV = PV x (1+periodic rate of return)^total number of periods
 
 future value factor: (1 + periodic rate of return)^ total number of periods
-
 
 ## Present Value (PV)
 
@@ -88,10 +89,10 @@ In_terest component = beginning balance x periodic interest rate
 
 Principal component = Payment - Interest
 
-``` js
+```js
 payment = (pv, ror_per_period, periods) => {
   return (pv * ror_per_period) / (1 - Math.pow(1 + ror_per_period, -periods));
-}
+};
 
 component_payments = (pv, ror, periods) => {
   const pmt = payment(pv, ror, periods);
@@ -115,6 +116,5 @@ component_payments = (pv, ror, periods) => {
   }
   // DOES NOT RESOLVE ROUNDING ERROR
   return returns;
-}
+};
 ```
-

@@ -82,6 +82,14 @@ If a project offers lower returns than what the shareholders can get by investin
 
 **Hurdle Rate** or **Cost of Capital** is the minimum rate of return a project must hit. It is considered an **opportunity cost of capital** in that it is hedged against other opportunities available in the financial markets.
 
+## The Stock Market
+
+private companies have a limited set of shareholders and the shares are not regularly traded, it is difficult to know the true value of stocks.
+
+public companies who's shares are traded on the stock market have access to capital as they can quickly sell shares for the price you can contemporaneously buy it. This **liquidity** is attractive to outside investors as it gives flexibility in timing.
+
+When new shares are issued, the corporation initially sells them to investors on the **primary market**. Then the shares continue to trade on the **secondary market** without the involvement of the corporation, as you are buying from other owners.
+
 ## Agency problems and corporate governance
 
 Agency problems are conflicts between shareholder and manager's objectives.
