@@ -29,7 +29,7 @@ Assets = Liabilities + Stockholder's Equity
 - Inventories
 - Other current assets, such as prepaid expenses.
 
-**long term assets** are those that are not immediately liquid, and includes things like machinery or equipment.
+**long term assets** are those that cannot be quickly converted to cash, and includes things like buildings, machinery,and equipment.
 
 **depreciation expense** is the reduction in value recorded each year over the lifetime of an asset.
 
@@ -53,6 +53,7 @@ The depreciation of intangible assets is called **amortization** or **impairment
 
 - long term debt
 - capital leases
+  - contract entitling the renter to the temporary use of an asset.
 - deferred taxes
 
 ### Stockholder's equity
@@ -65,15 +66,15 @@ The number is likely not a true assessment of the firms value as the asset value
 
 Market Value of Equity = Shares outstanding x Market price per share
 
-Market value is often referred to as **market capitalization**
+Market value is often referred to as **market capitalization**. It shows how investors expect those assets to produce in the future.
 
 Market-To-Book Ratio indicates the relationship between market capitalization and the book value of stockholder's equity. also called **P/B ratio**
 
 PB ratio = Market Value of Equity / Book Value of Equity
 
-Low PB ratios are often labeled **value stocks** while high market to book rations are considered **growth stocks**
+Low PB ratios are often labeled **value stocks** while high market to book rations are considered **growth stocks**. It indicates how much the market thinks a company is worth in relation to it's book value.
 
-**total enterprise value(TEV)** assess the value of the underlying business assets without debet and separate from any cash and marketable securities. Also the "cost to take over the business": buy all equity, pay off debt, and adjust for cash.
+**total enterprise value(TEV)** assess the value of the underlying business assets without debt and separate from any cash and marketable securities. Also the "cost to take over the business": buy all equity, pay off debt, and adjust for cash.
 
 Enterprise Value = Market Value of Equity + Debt - Cash
 
@@ -93,14 +94,201 @@ gross profit = total sales - cost of goods sold(COGS)
 
 **operating income** = gross profit - operating expense(admin, RnD, depreciation and amortization)
 
-**earnings before Interest and Taxes** includes any other income that are not core to the company's business.
+**Earnings before Interest and Taxes** includes any other income that are not core to the company's business.
 
 EBIT = operating income + other income
 
 **Pretax and Net income** is EBIT further deducted by interest expense.
 
-Net income represents total earnings of the firm's equity holders. It can be used to report the **earnings per share** number.
+**Net income** represents total earnings of the firm's equity holders. It can be used to report the **earnings per share** number.
 
 EPS = Net Income / Shares Outstanding.
 
 ## Statement of Cash Flows
+
+The statement of cashflows utilizes the information from the income statement and balance sheet to determine how much cash the firm has generated and have been allocated during a set period.
+
+There are three sections to the cashflow statement. 1. Operating Activities, 2. Investment Activities, and 3. Financing Activities.
+
+### Operating Activity
+
+Starts with the net income from the income statement and adds all non cash entries related to the firms operating activities.
+
+It is generally good to see green in this subtotal as this means the company's operations are profitable.
+
+**adjustments need to be made** based on accounts payable, receivable, and inventory to account for the "credit" nature of these records to find the cash number.
+
+**accounts receivable** increases must be **deducted** as these represent credits to customers that decrease cash in the firm.
+
+**accounts payable** increases must be **added** as these represents credits to the firm and increases cash available.
+
+**Inventory** increases must be **deducted** as it is a cash expense.
+
+### Investment Activity
+
+Lists cash used for investments. Generally **capital expenditures**
+
+It is generally good to see red in this subtotal as this means the company is investing in assets that will produce more profit in the future.
+
+These show the actual cash transactions made by the firm without depreciation expenditures.
+
+### Financing Activity
+
+Shows flow of cash between firm and its investors
+
+It is generally good to see red in this subtotal as this means the company is buying back stock (increasing scarcity of shares you own) and paying dividends while no increasing in borrowing.
+
+## Other Financial Documents
+
+### Statement of Stockholders' Equity
+
+Change in Stockholders' Equity = Retained Earnings + Net Sales of Stock = Net Income - Dividends + Sale of Stock - Repurchases of Stock
+
+### Management Discussion and Analysis
+
+MD&A is a preface to the financial statement where the company's management discusses the past period and future periods. Also **disclosure of off-balance sheet transactions** happens here.
+
+## Financial Statement Analysis For Real
+
+### Profitability Ratios
+
+**Gross Margin** = Gross Profit / Sales(Revenues)
+
+Measures the company's ability to sell a product for more than the cost of producing it.
+
+**Operating Margin** = Operating Income / Sales(Revenue)
+
+**EBIT Margin** = EBIT / Sales (Revenue)
+
+Measures how much a company earns before interest and taxes for each dollar of sales. Is an indicator for the relative efficiency of a firm's operations.
+
+**Net Profit Margin** = Net Income / Sales(Revenue)
+
+Shows fraction of each dollar in revenues that is available to equity holders after the firm pays interest and taxes.
+
+### Liquidity Ratios
+
+**Current Ratio** = Current Assets / Current Liabilities
+
+Shows whether a company has sufficient short term capital to meet its short term obligations.
+
+**Quick Ratio** = Near Cash Assets / Current Liabilities
+
+More stringent than the current ratio.
+
+A high Current or Quick ratio implies that there is less risk in the firm experiencing a cash shortfall.
+
+**Cash Ratio** = Cash / Current Liabilities
+
+Cash Ratio measures a company's liquidity in terms of its ability to pay off liabilities with cash and near cash resources. It is useful for creditors to decide how much to loan to a company. It is an indicator of the firm's value in a worst case scenario.
+
+### Working Capital Ratios
+
+Working Capital ratios look at how efficiently the firm is utilizing its net working capital.
+
+**Accounts Receivable Days** = Accounts Receivable / Average Daily Sales
+**Accounts Receivable Days** = (Accounts Receivable / Annual Revenue) x Number of days in reporting year
+
+Indicates how long it takes to collect payment from customers. On an single account level, increases can indicate that a particular customer is having financial issues.
+
+**Accounts Payable Days** = Accounts Payable / Average Daily Cost of Sales
+
+Measures the days it takes to pay a company's suppliers. An increasing number may indicate worse financial situation as it is taking longer for a company to pay its suppliers.
+
+**Inventory Days** = Inventory / Average Daily Cost of Sales
+
+**Inventory Turnover** = Annual Cost of Sales / Inventory
+
+Shows how many times a company has sold and replaced inventory in a given period. Low turnover implies weak sales or excess inventory.
+
+**Accounts Receivable Turnover** = Annual Sales / Accounts Receivable
+
+Number of times a year that a business collects its average accounts receivable. Evaluates a company's ability to efficiently issue credit to its customers. High turnover indicates conservative credit policy and aggressive collections with high quality customers. Low ratio indicates that there is working capital tied up in old accounts.
+
+**Accounts Payable Turnover** = Annual Cost of Sales / Accounts Payable
+
+Indicates how quickly the company is paying its obligation to suppliers.
+
+### Interest Coverage Ratios
+
+Measures a firm's ability to meet its interest obligations.
+
+**Interest Cover Ratio** = EBIT / Interest
+
+5 or better is good. below 1.5 is bad
+
+**EBITDA** = EBIT + Depreciation and Amortization
+
+### Leverage Ratios
+
+**leverage** is the extend that a company relies on debt as a source of financing.
+
+**Debt Equity Ratio** = Total Debt / Total Equity
+
+Measures the degree to which a company is financing its operations through debt versus wholly-owned funds. Reflects the ability of shareholder equity to cover outstanding debts in a downturn.
+
+Better to use market value of the equity as it is a better representation. Has **important** implications for risk and return of its stock.
+
+**Debt to Capital Ratio** = Total Debt / (Total Equity + Total Debt)
+
+Indicates what fraction of the firm is financed by debt
+
+**Net Debt** = Total Debt - Excess Cash & Short Term Investments
+
+Measures whether a firm can pay off its obligations with the cash its holding.
+
+**Debt to Enterprise Value Ratio** = Net Debt / ( Market Value of Equity + Net Debt ) = Net Debt / Enterprise Value
+
+Measures the portion of underlying business activity that is financed by Debt
+
+**Equity Multiplier** = Total Assets / Book Value of Equity
+
+Captures the amplification of the firm's accounting returns that results from leverage.
+
+**Market Value Equity Multiplier** = Enterprise Value / Market Value of Equity
+
+Indicates the amplification of shareholders' financial risk that results from leverage
+
+### Valuation Ratios
+
+**Price-Earnings Ratio** = Market Cap / Net Income = Share Price / EPS
+
+Indicates what multiplier on earnings investors are willing to pay
+
+Used to asses whether a stock is over or under valued based on the idea that the value of a stock should be proportional to the level of earnings it can generate for shareholders.
+
+### Operating Returns
+
+**Return On Equity** = Net Income / Book Value of Equity
+
+Measure of the return that firm has earned on its past investments. High ROE can indicate the company is able to find profitable opportunities.
+
+**Return on Assets** = (Net Income + Interest Expense) / Book Value of Assets
+
+Includes interest expense because assets are funded by both. It is less sensitive to leverage than ROE.
+
+**Return On Invested Capital** = (EBIT (1- Tax Rate)) / (Book Value of Equity + Net Debt)
+
+Measures return on investment after tax profit generated by business itself and compares it to the capital raised and already deployed.
+
+## The DuPont Identity
+
+The DuPont Identity Expresses ROE in terms of 3 Factors.
+
+Dupont ROE = **Net Profit Margin** x **Asset Turnover** x **Equity Multiplier**
+
+Net Profit Margin = Net Income / Sales
+
+Measures overall profitability
+
+Asset Turnover = Sales / Total Assets
+
+Measures how efficient the company is utilizing its assets to generate sales
+
+Equity Multiplier = Total Assets / Book Value of Equity
+
+Indicates Value of assets held per dollar of shareholder equity.
+
+## Other Terms
+
+**convertible bonds** are a form of debt that can be converted to shares.
