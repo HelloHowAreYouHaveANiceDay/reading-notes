@@ -6,16 +6,36 @@ Interest on government bonds are the benchmark for all interest rates. When gove
 
 The fixed set of cash payoffs is called the bond's **coupon**, usually expressed as a percentage.
 
-The PV of a bond is equal to the sum of two different investments. One that is an annuity of coupon payments, the other is the final value of the principal.
+The PV of a bond is equal to the sum of two different investments. One that is an annuity of coupon payments, the other is the Face Value.
+
+US coupons are paid semiannually
+
+**Term** is the time until the bond expires
+
+**Maturity Date** is the day when the bond expires and the face value is received
+
+**Yield to Maturity** is the discount rate that sets the PV of the promised payments equal to the current price. (market discount rate)
 
 Yield to maturity is the rate of return of the bond. Because you are usually paying more than face value, you lose the difference by holding the bond to maturity. However, this is offset by the coupon payments. The yield to maturity number blends the return from the coupon payments with the declining value of the bond over its remaining life.
 
-A bond sells at a **premium** when its asking price is higher than its face value. Investors who buy this bond expects to face a capital loss over the life of the bond, so the yield to maturity is lower than current yield.
+**Par** when bond is traded at price equal to the face value. YTM = coupon rate
 
-A bond sells at a \**discount*8 when its asking price is lower than the face value. Investors who buy this bond expects a capital gain over the life of the bond, so yield to maturity on a discount bond is greater than the current yield.
+**Discount** when bond is traded at price less than face value. YTM > coupon rate
 
-US coupons are paid semiannually
+**Premium** when bond is higher than face value. YTM < coupon rate
 
 ## How Bond Prices Vary with Interest Rates
 
 Change in interest rates have a greater impact on prices of long-term bods than on those of short-term bonds.
+
+Yield to maturity is defined as the discount rate that explains the bond price. Therefore, when bond prices rise, YTM must fall and vice versa. In the market when interest rates fall, the price of bonds will rise, increasing the value for holders of those bonds.
+
+The bond that pays out a larger portion of it's value closer to the end is considered a longer term bond. (lower coupon, higher FV)
+
+**Macaulay duration** is the measure of average maturity and predicts the exposure of each bond's price to fluctuation in interest rates.
+
+Duration is the weighted average of the times to each cash payment. The weight is calculated by the PV of cashflow received divided by total PV of the bond.
+
+**Volatility** (also called modified duration) = duration / 1 + yield
+
+## Term Structure
