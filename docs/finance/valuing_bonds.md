@@ -16,7 +16,7 @@ US coupons are paid semiannually
 
 **Yield to Maturity** is the discount rate that sets the PV of the promised payments equal to the current price. (market discount rate)
 
-Yield to maturity is the rate of return of the bond. Because you are usually paying more than face value, you lose the difference by holding the bond to maturity. However, this is offset by the coupon payments. The yield to maturity number blends the return from the coupon payments with the declining value of the bond over its remaining life.
+Yield to maturity is the Rate of Return of the bond. Because you are usually paying more than face value, you lose the difference by holding the bond to maturity. However, this is offset by the coupon payments. The yield to maturity number blends the return from the coupon payments with the declining value of the bond over its remaining life.
 
 **Par** when bond is traded at price equal to the face value. YTM = coupon rate
 
@@ -38,4 +38,8 @@ Duration is the weighted average of the times to each cash payment. The weight i
 
 **Volatility** (also called modified duration) = duration / 1 + yield
 
-## Term Structure
+## Term Structure Of Interest Rates (Yield Curve)
+
+The Yield Curve shows the relationship between interest rate and time to maturity. The shape of the curve indicates the preference of lenders relative to borrowers.
+
+Usually, the yield of longer term bonds should be higher than shorter term bonds because a higher price has to be paid to hold on to lender money for longer.
