@@ -4,13 +4,19 @@ a **capital budget** lists the projects and investments that a company plans to 
 
 The first step is to determine the **incremental earnings** of a project.
 
+**Incremental Earnings** is the amount by which the firm's earnings is expected to change as a result of the investment decision.
+
 ## Incremental Earnings Forecast
 
 **straight line depreciation** is where the asset's cost less any salvage value is divided equally over its estimated useful life time.
 
-**interest** is usually not included in the calculation to separate a firm's financing decisions from the investment decision. This is **unlevered net income**
+**interest** is usually not included in the calculation to separate a firm's financing decisions from the investment decision.
+
+**unlevered net income** is net income without interest associated with debt.
 
 **unlevered net income** = EBIT x (1 - Marginal Tax Rate)
+
+**marginal corporate tax rate** is the tax rate it will pay on an incremental dollar of pre-tax income.
 
 ## Indirect Effects on Incremental Earnings
 
@@ -46,8 +52,8 @@ PV(Free Cash Flow at T) = Free Cash Flow at T / (1 + rate) ^ T
 
 ## Project Analysis
 
-In break even analysis, each parameter is calculated to for an NPV of zero.
+In **break even** analysis, each parameter is calculated to for an NPV of zero.
 
-Sensitivity Analysis breaks the NPV calculation into component assumptions and shows how the NPV varies as the assumptions change.
+**Sensitivity Analysis** breaks the NPV calculation into component assumptions and shows how the NPV varies as the assumptions change.
 
-Scenario Analysis considers the effect on NPV of changing multiple project parameters as parameters are often dependent on each other.
+**Scenario Analysis** considers the effect on NPV of changing multiple project parameters as parameters are often dependent on each other.

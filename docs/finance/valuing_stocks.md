@@ -24,9 +24,11 @@ Payment[0] = (Dividend[1] + Payment[1]) / (1 + Equity Cost of capital)
 
 **Dividend Yield** is the expected annual dividend of the stock divided by the current price and is the percentage return the investor expects to earn from the dividend paid by the stock.
 
+**Dividend Yield** = Dividend[1] / Payment[0]
+
 **Capital Gain** is the difference between the expected sale prices and the purchase price of the stock. Payment[1] - Payment[0]
 
-Capital Gain / Stock Price = **Capital Gain Rate**
+Capital Gain / Stock Price(Payment[0]) = **Capital Gain Rate**
 
 **Total Return of the stock** is the dividend yield plus the capital gain rate.
 
@@ -52,6 +54,8 @@ Rate[equity] = (Dividend[1]/Payment[0]) + Rate[growth]
 
 Dividend[t] = (Earnings[t] / Shares Outstanding[t]) \* Rate[dividend payout]
 
+**dividend payout rate** is the fraction of earnings that the firm pays as dividends each year.
+
 a firm can thus raise its dividend in three ways:
 
 1. increase earnings
@@ -59,5 +63,9 @@ a firm can thus raise its dividend in three ways:
 3. decrease shares outstanding
 
 Cutting a firm's dividend to increase investment will raise the stock price if and only if the new investments have a positive NPV.
+
+**retention rate** is the fraction of current earnings that the firm retains.
+
+New Investment = Earnings x **Retention Rate**
 
 ### Changing Growth Rates

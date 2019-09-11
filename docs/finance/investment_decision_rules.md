@@ -42,4 +42,7 @@ the same issues with IRR is also present in Incremental IRR
 
 Profitability index = Value Created / Resource Consumed = NPV / Resource Consumed
 
-For profitability index to work, 1. the set of projects must completely exhaust the available resources. 2. There is only a single relevant resource constraint.
+For profitability index to work
+
+1. the set of projects must completely exhaust the available resources.
+2. There is only a single relevant resource constraint.
