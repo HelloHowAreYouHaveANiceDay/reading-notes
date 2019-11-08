@@ -14,6 +14,14 @@ Take the investment where the IRR exceeds the opportunity cost of capital. Turn 
 
 Looks at the payback period. Take the investment where cash flows pay back its initial investment within a period.
 
+The pitfalls of Payback Rule are:
+
+1. ignores the project's cost of capital and TVM
+2. ignores cash flows after the payback period
+3. relies on an ad hoc decision criterion (i.e. number of years)
+
+Payback rule is a simple metric for small capital projects and provides budgeting information regarding the length of time the capital is tied up in the project.
+
 ## Choosing between Projects
 
 ### NPV rule and mutually exclusive investments
@@ -22,7 +30,11 @@ pick the project with the highest positive NPV
 
 ### IRR Rule and mutually exclusive investments
 
-if projects differ in scale of investment, timing of their cash flows, or their riskiness, then their IRRs cannot be meaningfully compared.
+IRRs cannot be meaningfully compared if:
+
+1. the projects differ in scale of investment
+2. the projects differ in timing of cashflows
+3. the projects differ on their riskiness
 
 Because IRR is a return, you cannot tell how much total value is actually created without knowing how big the investment was.
 
