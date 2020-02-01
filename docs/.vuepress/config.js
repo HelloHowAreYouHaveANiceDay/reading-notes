@@ -3,19 +3,8 @@ module.exports = {
     description: 'searching filings of personal research',
     serviceWorker: true,
     base: '/',
-    dest: './docs',
+    dest: './dist',
     themeConfig: {
-        // sidebar: {
-        //     '/project_management/': [
-        //         ''
-        //     ],
-        //     '/us_taxation/': [
-        //         ''
-        //     ],
-        //     '/': [
-        //         ''
-        //     ]
-        // }
         sidebar: [
             {
                 title: 'knowledge base',
