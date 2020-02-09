@@ -74,7 +74,7 @@ Under MACRS, personal property is assigned a life of 3, 5, 7 10, or 15 years, re
 15 year uses a 150% declining balance
 if straight-line method yields a greater deduction, it is then used.
 
-MACRS ignores salvage value. Taxpayers multiply the percentage from the table by the property's MACRS basis. 
+MACRS ignores salvage value. Taxpayers multiply the percentage from the table by the property's MACRS basis.
 
 MACRS basis begins with the unadjusted basis, which is the taxpayer's total cost for use at its operating location, including:
 
@@ -128,7 +128,7 @@ Once a taxpayer elects to depreciate a specific class of property using ADS, tha
 
 Defined as "tangible personal property purchased by the taxpayer and used in a trade or business"
 
-The amount of section 179 property that can be expensed in the first year is reduced one to one when exceeding $200,000. Married couples filing separately can each claim one half of the couple's allowed amount. The maximum expense is calculated on form 4562 Part I.
+The amount of section 179 property that can be expensed in the first year is reduced one to one when exceeding \$200,000. Married couples filing separately can each claim one half of the couple's allowed amount. The maximum expense is calculated on form 4562 Part I.
 
 Section 179 Expense can only be claimed in the first year they are placed in service. After the 179 election, half of the rest of the unadjusted basis can be recovered using bonus, MACRS, or ADS.
 

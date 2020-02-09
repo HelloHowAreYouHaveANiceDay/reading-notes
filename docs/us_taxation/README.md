@@ -1,5 +1,14 @@
 # US Taxation
 
+The US income tax is constitutionalized with the 16th amendment.
+
+It is a **progressive** tax system, meaning that as income increases, the percentage rate also increases.
+
+The taxpayer is responsible for:
+
+1. Determining their own taxes
+2. file a tax return and pay taxes due
+
 ## Federal Taxation
 
 - income taxes
@@ -26,13 +35,13 @@
   - sales
 
 Value added Tax:
-added to the product itself as an indirect tax. 
+added to the product itself as an indirect tax.
 
 Flat Tax:
 Total income minus allowance for family size and apply a single tax rate for all individuals.
 
 Tax Avoidance and Tax Evasion:
-Avoidance is not criminal and happens BEFORE the tax obligation occurs. Everyone has a right to avoid paying what is not legally required of them. Evasion can only happen if the individual already has tax liability, and in spite, does not report income. 
+Avoidance is not criminal and happens BEFORE the tax obligation occurs. Everyone has a right to avoid paying what is not legally required of them. Evasion can only happen if the individual already has tax liability, and in spite, does not report income.
 
 Badges of fraud
 
@@ -157,7 +166,7 @@ Cost of property records should be kept longer for reporting on gains and losses
 
 ## Reducing Taxes
 
-understanding taxes will allow taxpayers to double check software 
+understanding taxes will allow taxpayers to double check software
 
 planning transactions in advance is the best way to reduce taxes
 
@@ -181,4 +190,3 @@ most tax benefits favor business owners and taxpayers who itemize
 ### maximize unrealized income
 
 Taxpayers can accumulate more wealth by investing in assets that produce income that is not currently taxable
-

@@ -2,7 +2,7 @@
 
 Gross Income - Deductions for Adjusted Gross Income = Adjusted Gross Income
 
-Adjusted Gross  income - Greater of Itemized or Standard Deduction - Personal Exemptions = Taxable Income
+Adjusted Gross income - Greater of Itemized or Standard Deduction - Personal Exemptions = Taxable Income
 
 Taxable Income x Tax Rate = Tax Liability
 
@@ -39,7 +39,7 @@ a child is not allowed the personal exemption if it is claimed on the parent's r
 
 Deductions reduces the income to which the rate applies, credits directly reduce tax liability.
 
-### Classification of  Taxpayers
+### Classification of Taxpayers
 
 Individual 1040
 Corporation 1120
@@ -61,7 +61,7 @@ to qualify as as dependent, all the following tests must pass:
 
 #### Support Test
 
-over one half of the support of a dependent must be provided by the tapayer.
+over one half of the support of a dependent must be provided by the taxpayer.
 support includes food, shelter, clothing, medical and dental, education, etc.
 
 generally the amount = amount of expense incurred.
@@ -115,7 +115,7 @@ dependent cannot be filed as a dependent on more than one return.
 
 #### social security number
 
- social security number is required for all dependents claimed
+social security number is required for all dependents claimed
 
 #### multiple support agreements
 
@@ -150,7 +150,7 @@ there are file filing statuses
 - taxpayer's spouse cannot be a member of the household in the last 6 months
 - taxpayer contributes more than 50% of the cost of living
 - taxpayer's residence is child's primary residence for more than 50% of the year.
-an abandoned spouse can claim head of household status.
+  an abandoned spouse can claim head of household status.
 
 #### married individuals filing jointly
 
@@ -234,12 +234,12 @@ Exemption for the deceased spouse is available in the year of death but not two 
 
 ### Dependents
 
-Standard deduction for dependents is the dependent's income plus $250 up to the maximum allowable standard deduction or $750 total. Individual over 18 or full time student over 23 will not qualify as a dependent if income exceeds $3000.
+Standard deduction for dependents is the dependent's income plus $250 up to the maximum allowable standard deduction or $750 total. Individual over 18 or full time student over 23 will not qualify as a dependent if income exceeds \$3000.
 
 if a dependent child
 
 1. is under 14 years of age at the end of the tax year
-2. has more than $1500 of net unearned (investment) income for the year.
+2. has more than \$1500 of net unearned (investment) income for the year.
 3. has one living parent at the close of the tax year.
 
 then their net unearned income is taxed to the child at the additional rate of the tax that the parent would pay if the child's income is included in the parents' taxable income.
@@ -259,10 +259,10 @@ Net unearned income is "unearned" such as:
 
 it has to be:
 
-1. less than $750
+1. less than \$750
 2. or the amount of allowable deductions which are directly connected with the production of unearned income.
 
-``` code
+```code
 Child A has $800 of earned income and $400 of unearned income.
 
  $  800 earned
@@ -304,18 +304,18 @@ $200 net unearned income is taxed at parent's rate.
 ### Filing requirements
 
 obligation to file depends on
-- amount of gross income
-	- only income which is taxable is included in the calculation
+
+- amount of gross income - only income which is taxable is included in the calculation
 - marital status during the year
 - age
 
 #### tax tables
 
-tax tables only apply to taxable income of less than **$100,000**
+tax tables only apply to taxable income of less than **\$100,000**
 
 each line represents an interval of incomes.
 
-``` code
+```code
 <$3000
 intervals are $25
 >$3000
@@ -332,7 +332,7 @@ those unable to use tax tables can use tax schedules to determine their tax obli
 
 used so self employment also is taxed for social benefits.
 
-``` code
+```code
   gross income from business as a sole proprietor
 - allowable deductions
 + distributive share of partnership's net income
@@ -349,7 +349,7 @@ not all self-employment income is taxed.
 - items generally excluded from gross income
 - wages received by a child under 18 from a parent
 
-``` code
+```code
   self employment income
 - special deduction
 ------
@@ -365,7 +365,7 @@ x 1/2 self-employment tax rate or 7.65%
 
 the taxpayer is allowed a deduction for 1/2 the self-employment tax as a deduction from gross income
 
-``` code
+```code
 person A had $45000 in self employment income. deductable expenses were $15000
 
  $ 45000 gross income from self employment
@@ -392,4 +392,4 @@ x  15.3% self-employment tax rate
 
 one half of the self employment tax liability for the year is allowed as a deduction on the tax return. The deduction is taken from gross income on 1040.
 
-if net earnings from self-employment are less than $400, there is no self employment tax.
+if net earnings from self-employment are less than \$400, there is no self employment tax.
