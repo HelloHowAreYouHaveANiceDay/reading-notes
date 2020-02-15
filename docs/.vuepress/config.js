@@ -33,7 +33,8 @@ module.exports = {
           "/us_taxation/gross_income_inclusions.md",
           "/us_taxation/gross_income_exclusions.md",
           "/us_taxation/self_employment.md",
-          "/us_taxation/depreciation_amortization.md"
+          "/us_taxation/depreciation_amortization.md",
+          "/us_taxation/reducing_taxes"
         ]
       },
       {
