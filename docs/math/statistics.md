@@ -1,4 +1,4 @@
-# statistics
+# Statistics
 
 Descriptive and Inferential Statistics
 
@@ -36,7 +36,7 @@ converting quantitative variables into ordinal ones allow you to build your freq
 
 mean, median, mode
 
-### Range, interquartile range, and box plot
+### Range, Interquartile Range, and Box plot
 
 in order to describe a distribution, you need much more than just middle tendencies
 

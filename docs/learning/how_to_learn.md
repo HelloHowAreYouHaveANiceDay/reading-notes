@@ -6,7 +6,7 @@ notes on the learning to learn coursera course
 
 ### Focused
 
-Focused on targeted task.
+Focused on targeted task
 
 ### Diffused
 
@@ -14,15 +14,15 @@ Allows random ideas to connect
 
 ## Brain
 
-### Working memory
+### Working Memory
 
-4 major slots held in the hippocampus
+Working memory holds information available to the task at hand. There are roughly 4 slots held in the hippocampus.
 
 ## chunking
 
 chunking unites bits of information together through meaning with use.
 
-Interspace focused and diffused learning.
+Interspace focused and diffused learning to form chuncks of relationships in your mind
 
 ### How to form a chunk
 
@@ -47,7 +47,7 @@ when a concept is well chunked, only one slot of working memory should be needed
 
 Use notes on the side rather than over highlighting.
 
-When the material is present there's allusion that it is in one's head.
+When the material is present there's illusion that it is in one's head.
 
 Recall in other places that are not where you learned the material avoids spatial cues that can hinder recall in unfamiliar environments like those at a test center.
 
@@ -55,9 +55,9 @@ Recall in other places that are not where you learned the material avoids spatia
 
 Acetylocholine: helpful for focused learning
 
-Dopamine: Reward chemical. helpful for motivation.
+**Dopamine**: Reward chemical. helpful for motivation.
 
-Serotonin: affects social life. Linked to risk taking.
+**Serotonin**: affects social life. Linked to risk taking.
 
 ### Library chunks
 
@@ -81,47 +81,3 @@ Unlearning bad old ideas to learn new ones ends up being more wasteful.
 
 **Interleaving** Re-approaching the same concept through different perspectives or mindsets.
 
-## Procrastination and Memory
-
-procrastination is like poison
-
-you shouldn't need to use will power to fend off procrastination
-
-Irrational excuses is a sign procrastination
-
-Habits are energy savers.
-
-Habits have four parts:
-
-1. The Cue
-2. The Routine
-   a. the zombie mode. how the brain responds.
-3. The reward
-4. The belief
-
-to change habits you have to change underlying belief.
-
-### Process vs product
-
-negative feelings about studying is normal
-
-focus on process not the product. The product is what produces the pain. Habits are more helpful for process.
-
-### building out of procrastination
-
-1. the cue
-figure out what's causing procrastination. Location/time/feelings or reactions.
-
-2. the routine
-develop a new plan and routine.
-
-3. reward
-habits are powerful because they create neurological connections.
-The better you get at something the better it will feel.
-
-4. the belief
-believe that your new routine works.
-
-### juggling life and learning
-
-organize todos. write the list helps the brain understand how to plan for them. Task list frees memory for problem solving.
